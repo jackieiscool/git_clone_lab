@@ -1,0 +1,4 @@
+name: Antoine
+github: antoinecatt
+email: antoinecatt@gmail.com
+fun_fact: thrill seeker
